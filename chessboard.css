@@ -1,0 +1,55 @@
+.board{
+    width: 640px;
+    height: 640px;
+    border-style: solid;
+    border-width: 22px;
+    border-color:  #7e2020;
+}
+
+.white{
+    color: #8d9760;
+    background-color:  #7e2020;
+    float: left;
+    width: 80px;
+    height: 80px;
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.brown{
+    color: #8d9760;
+    background-color:  #eee8aa;
+    float: left;
+    width: 80px;
+    height: 80px;
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.cream{
+    color:  #fa837b;
+    background-color:  #7e2020;
+    float: left;
+    width: 80px;
+    height: 80px;
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.black{
+    color:  #fa837b;
+    background-color:  #eee8aa;
+    float: left;
+    width: 80px;
+    height: 80px;
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
